@@ -32,4 +32,4 @@ I'm passionate about building real-world, responsive, and SEO-optimized websites
 
 - 💼 Portfolio: [furnirocollection.netlify.app](https://furnirocollection.netlify.app)
 - 🔗 GitHub: [github.com/Sahil-Meo](https://github.com/Sahil-Meo)
-- 🌐 LinkedIn: *(add your profile link if available)*
+- 🌐 LinkedIn: https://www.linkedin.com/in/sahilmeo/
