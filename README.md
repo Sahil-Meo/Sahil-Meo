@@ -9,14 +9,15 @@ From crafting elegant **front-end interfaces** to developing **robust backend AP
 
 ## 🚀 Tech Stack  
 
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)  
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 
 ### ⚙️ Backend & Database  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)  
