@@ -19,16 +19,16 @@ From crafting elegant **front-end interfaces** to developing **robust backend AP
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 
-### ⚙️ Backend & Database  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)  
-![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)  
-![Mongoose](https://img.shields.io/badge/-Mongoose-800?logo=mongoose&logoColor=fff&style=flat)  
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Mongoose](https://img.shields.io/badge/-Mongoose-800?logo=mongoose&logoColor=fff&style=flat)
 
-### 🔧 Tools & Version Control  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)  
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
 ---
 
