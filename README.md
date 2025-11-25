@@ -39,9 +39,10 @@ From crafting elegant **front-end interfaces** to developing **robust backend AP
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Meo&theme=tokyonight" height="180" />
 </p> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-Meo&show_icons=true&theme=tokyonight)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Meo&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil-meo&show_icons=true&theme=tokyonight" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-meo&theme=tokyonight" height="180" alt="GitHub streak"/>
+</p>
 
 ---
 
