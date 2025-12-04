@@ -39,6 +39,9 @@ From crafting elegant **front-end interfaces** to developing **robust backend AP
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sahil-Meo&theme=tokyonight" height="180">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahil-Meo&theme=tokyonight" />
+</p>
 
 ---
 
