@@ -39,7 +39,7 @@ From crafting elegant **front-end interfaces** to developing **robust backend AP
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahil-Meo&theme=tokyonight" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahil-Meo&theme=tokyonight" height="280">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sahil-Meo&theme=tokyonight" height="180">
 </p>
 
